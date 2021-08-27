@@ -10,10 +10,12 @@ we are not responsible for any illigal activity.
 1. Termux
 2. Kali Linux
 <br>
+
 ## Tested on:
 1. Termux
 2. Kali Linux 
 <br>
+
 ## Installation:
 <pre>
 $ apt update && apt upgrade
