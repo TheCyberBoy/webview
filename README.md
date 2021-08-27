@@ -6,8 +6,15 @@ webview is php based script officially made for increasing views on your blog or
 use it carefully .
 we are not responsible for any illigal activity.
 <br>
-## Avilable on :
-<li>termux</li>
+## Avilable on:
+<li>Termux</li>
+<li>Kali Linux </li>
+<br>
+## Tested on:
+<li>Termux</li>
+<li>Kali Linux </li>
+<br>
+## Installation:
 <pre>
 $ apt update && apt upgrade
 $ pkg install php
