@@ -7,9 +7,7 @@ use it carefully .
 we are not responsible for any illigal activity.
 <br>
 ## Avilable on :
-<li>
-<ul>termux</ul>
-</li>
+<li>termux</li>
 <pre>
 $ apt update && apt upgrade
 $ pkg install php
