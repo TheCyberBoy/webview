@@ -7,12 +7,12 @@ use it carefully .
 we are not responsible for any illigal activity.
 <br>
 ## Avilable on:
-<li>Termux</li>
-<li>Kali Linux </li>
+*Termux
+*Kali Linux
 <br>
 ## Tested on:
-<li>Termux</li>
-<li>Kali Linux </li>
+*Termux
+*Kali Linux 
 <br>
 ## Installation:
 <pre>
