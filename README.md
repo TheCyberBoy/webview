@@ -6,6 +6,10 @@ webview is php based script officially made for increasing views on your blog or
 use it carefully .
 we are not responsible for any illigal activity.
 <br>
+## Avilable on :
+<li>
+<ul>termux</ul>
+</li>
 <pre>
 $ apt update && apt upgrade
 $ pkg install php
