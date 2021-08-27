@@ -10,11 +10,11 @@ we are not responsible for any illigal activity.
 <li>Termux</li>
 <li>Kali Linux </li>
 <br>
-## Tested on:
+### Tested on:
 <li>Termux</li>
 <li>Kali Linux </li>
 <br>
-## Installation:
+### Installation:
 <pre>
 $ apt update && apt upgrade
 $ pkg install php
