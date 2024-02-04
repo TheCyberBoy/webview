@@ -129,7 +129,7 @@ underxploit:
                                 echo $ciyan . "
 --------------------------------------";
                                 echo $ciyan . "
-  http://www.underxploit.me";
+  http://thecyberboytube.blogspot.com";
                                 echo $ciyan . "
 --------------------------------------" . $grey . "
 
